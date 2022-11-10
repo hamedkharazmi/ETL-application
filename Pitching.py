@@ -12,7 +12,7 @@ os.environ['PYSPARK_PYTHON'] = sys.executable
 os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 
 my_user = 'root'
-my_password = 'Hamed_11351'
+my_password = '***********'
 my_database='lahman2016'
 
 def connect_to_db():
