@@ -82,4 +82,3 @@ Bonus points
 ============
 
 Implement your application in a stream-oriented fashion, or explain how you would do so in addition to implementing a batch-oriented application.
-
